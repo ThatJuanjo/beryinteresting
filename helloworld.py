@@ -1,2 +1,2 @@
-print("hello world!")
-print("have a nice day!")
+print("hello world!!")
+print("have a good night!")
